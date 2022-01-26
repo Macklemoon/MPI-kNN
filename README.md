@@ -1,5 +1,5 @@
 # 474-Project-2
-Project 2: Parallelized kNN
+## Project 2: Parallelized kNN
 The dataset, as linked below, defines a table of 245,057 entries sampling RGB values in hopes of identifying if the sampled color is a valid skintone.
 *From the dataset website: Skin and Nonskin dataset is generated using skin textures from face images of diversity of age, gender, and race people.*
 There are 50,859 entries that denote valid skin textures.
