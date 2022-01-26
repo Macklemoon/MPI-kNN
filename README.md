@@ -3,8 +3,8 @@
 The dataset, as linked below, defines a table of 245,057 entries sampling RGB values in hopes of identifying if the sampled color is a valid skintone.
 *From the dataset website: Skin and Nonskin dataset is generated using skin textures from face images of diversity of age, gender, and race people.*
 There are 50,859 entries that denote valid skin textures.
-scikit.learn's implementation of kNN is unfortunately sequential, so in order to speed up the process, we worked on a solution involving MPI to reduce the compile time by parallelizing steps in the kNN process. The repository mentioned below was the basis for this project's skeleton, and optimizations have been made in our program to reduce the time spent compiling. See the *report.pdf* file for more information and demos images.
-The project was finished in C++, and based off this github repository: https://github.com/ignatij/knn-mpi.
+scikit.learn's implementation of kNN is unfortunately sequential, so in order to speed up the process, we worked on a solution involving MPI to reduce the compile time by parallelizing steps in the kNN process. The repository mentioned below was the basis for this project's skeleton, and optimizations have been made in our program to reduce the time spent compiling. See the *report.pdf* file for more information and demos images.</br>
+The project was finished in C++, and based off this github repository: https://github.com/ignatij/knn-mpi.</br>
 The training and test sets are provided here: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation#.
 
 ## Group members:
